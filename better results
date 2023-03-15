@@ -1440,6 +1440,3 @@ Epoch 699/700
 56/56 [==============================] - 35s 624ms/step - loss: 0.4414 - accuracy: 0.8373 - val_loss: 1.3349 - val_accuracy: 0.6646
 Epoch 700/700
 56/56 [==============================] - 33s 588ms/step - loss: 0.4468 - accuracy: 0.8363 - val_loss: 1.3818 - val_accuracy: 0.6565
-add Codeadd Markdown
-​
-add Codeadd Markdown
